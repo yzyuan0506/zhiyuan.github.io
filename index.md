@@ -1,6 +1,6 @@
 ## Hey there!
 
-Github main page: github.com/ziyuen
+Github main page: <github.com/ziyuen>
 
 ### About me
 
