@@ -1,9 +1,14 @@
-## Hey there!
+---
+layout: home
+profile_picture:
+  src: /assets/img/profile-pic.jpg
+  alt: website picture
+---
 
-Github main page: [github.com/ziyuen](https://github.com/ziyuen)
+<p>
+  Welcome! My name is Zhiyuan Yang and I am a ...On May 2020, I obtained my bachelor’s degree in computer science from University of Minnesota - Twin Cities. 
+</p>
 
-### About me
-
-- 🎓 Obtained my bachelor's degree in computer science from University of Minnesota
-- 🤔 Exploring new technologies and developing software solutions and quick hacks
-- 🌱 Learning more about systems design, machine Learning and programming languages
+<p>
+  Recently, I am learning program analysis.
+</p>
