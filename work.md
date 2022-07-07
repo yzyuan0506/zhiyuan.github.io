@@ -12,7 +12,7 @@ items:
     image:
       src: /assets/img/work/sand.png
       alt: sand
-    description: A Python program that crawl pull requests(PR) for the same issue from a given Github project. The crawled items are saved to MongoDB in the pipeline. This tool is used to conduct a research study on how reviewers decide which PR to be merged, when there are multiple PRs for the same issue.
+    description: A web crawler that scrape pull requests(PR) for the same issue from a given Github project. The scraped items are saved to MongoDB in the pipeline. This tool is used to conduct a research study on how reviewers decide which PR to be merged, when there are multiple PRs for the same issue.
 ---
 
 These are some of my open-source work, although there are few people use them.
