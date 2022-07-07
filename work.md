@@ -8,7 +8,7 @@ items:
       src: /assets/img/work/water.png
       alt: water
     description: Solutions and notes of the Leetcode problems that I solved. Each problem is classified into related category and there are solving templates for some common problems.
-  - title: <a href="https://github.com/ziyuen/github-crawler">PR Crawler</a>
+  - title: <a href="https://github.com/ziyuen/pr-crawler">PR Crawler</a>
     image:
       src: /assets/img/work/sand.png
       alt: sand
