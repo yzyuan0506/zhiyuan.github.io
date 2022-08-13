@@ -8,7 +8,7 @@ profile_picture:
 ## About me
 
 
-Hello! I'm **Zhiyuan Yang**. My name can be pronouned as "zi yuen" or you just call me "Jovan".
+Hello! I'm **Zhiyuan Yang**.
 <p>
 I am an master student in information technology at HKUST. My goal is to be a "carftsman" in coding and software development.
 </p>
