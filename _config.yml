@@ -1,9 +1,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Zhiyuan Yang
+title: Archy Yang
 description: >- # this means to ignore newlines until "baseurl:"
-  Zhiyuan's personal website.
+  Archy's personal website.
 url: "https://ziyuen.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
