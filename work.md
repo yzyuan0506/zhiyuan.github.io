@@ -3,6 +3,12 @@ layout: work
 title: Work
 slug: /work
 items:
+  - title: <a href="2023/05/02/hci-project">Mobile Healthcare Platform (HCI Project)</a>
+    image:
+      src: /assets/img/work/sand.png
+      alt: sand
+    description: This is the course project for CSIT6000N - Advanced Topics in Human-Computer Interaction. A healthcare platform designated for chronic diseases, i.e., post Covid condition.
+
   - title: <a href="https://github.com/ziyuen/videoPlatformBackend">Video Platform</a>
     image: 
       src: /assets/img/work/water.png
